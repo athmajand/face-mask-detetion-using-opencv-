@@ -1,9 +1,0 @@
-opencv-python
-tensorflow
-numpy
-matplotlib
-pillow
-imutils
-scikit-learn
-
-
